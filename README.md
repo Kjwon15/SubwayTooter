@@ -35,6 +35,10 @@ Mastodon client app for Android phone/tablet.
 - Official blog (JP) http://subwaytooter.hatenadiary.jp/
 - Discord https://discord.gg/6YPA7UP
 
+## Contribute translation
+
+- https://hosted.weblate.org/projects/subway-tooter/
+
 ## Donation?
 - Amazon(jp) wish list http://amzn.asia/axmNivM
 - Fantia https://fantia.jp/fanclubs/8239
